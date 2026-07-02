@@ -1,11 +1,12 @@
 # EvehneDXTools for 3DXChat official
 The Evehne's 3DXChat Tools
 
-Actuel version 26.6.15
+Actual version 26.6.15
 
-## WORLD Features :
+## WORLD File Features :
 - .WORLD Optimisations (gain 20-30% of size)
-- .WOLRD Dupes remover
+- .WORLD Dupes remover
+- .WORLD Groups disolver
 - .WORLD Reports & Analysis
 - .WORLD Global mover
 - Create color palette from a .WORLD (JSON, CSV, ACO, GPL)
