@@ -1,7 +1,7 @@
 # EvehneDXTools for 3DXChat official
 The Evehne's 3DXChat Tools
 
-Actual version 26.6.15
+[Actual version 26.6.15](https://github.com/Evehne-X/EvehneDXTools/releases/tag/3DXChat)
 
 ## WORLD File Features :
 - .WORLD Optimisations (gain 20-30% of size)
