@@ -3,9 +3,10 @@ The Evehne's 3DXChat Tools
 
 ## ** WARNING : 3DXChat is an adult game (-18) **
 
+<a href="https://www.buymeacoffee.com/evehne">Hey ! Buy me a coffee if you like my work :)</a>
+
 [Actual version 26.10.27.2335](https://github.com/Evehne-X/EvehneDXTools/releases/tag/3DXChat)
 
-<a href="https://www.buymeacoffee.com/evehne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=evehne&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## WORLD File Features :
 - .WORLD Optimisations (gain 20-30% of size)
