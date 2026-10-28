@@ -1,6 +1,8 @@
 # EvehneDXTools for 3DXChat official
 The Evehne's 3DXChat Tools
 
+## ** WARNING : 3DXChat is an adult game (-18) **
+
 [Actual version 26.10.27.2335](https://github.com/Evehne-X/EvehneDXTools/releases/tag/3DXChat)
 
 ## WORLD File Features :
